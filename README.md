@@ -1,4 +1,4 @@
-# nodejs-es6-boilerplate
+# wordpress-theme-workflow
 
 
 ### Install stuff
