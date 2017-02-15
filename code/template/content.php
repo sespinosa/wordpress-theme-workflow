@@ -73,19 +73,11 @@
 				
 				</div>
 			<div class="span8">
-					<h2>Bienvenidos a <strong>INNOVA 2017</strong></h2>
+					<h2><?php the_title(); ?></h2>
 					<p>
-					El Laboratorio Tecnológico del Uruguay y Fundación Latitud anuncian la realización de INNOVA 2017, el 8º Simposio Internacional de Innovación y Desarrollo de Alimentos, que tendrá lugar en el LATU del 27 al 29 de setiembre de 2017.
-			  </p>
-					<p>
-					En los días previos al Simposio, contaremos con talleres en temas actuales de interés para todos los profesionales y técnicos vinculados con la ciencia y tecnología de los alimentos, propiciando una semana para compartir con colegas de distintos lugares del mundo un emocionante ambiente educativo y profesional. 
-			  </p>
-					<p>
-					Agradecemos a todos los integrantes del Comité Científico, a las instituciones que ellos representan y al Comité Organizador, por el apoyo y el trabajo que están llevando adelante para recibir a los asistentes a INNOVA 2017 con un excelente programa y estamos abiertos a las consultas y sugerencias que ustedes quieran realizar. 
-			  </p>
-                    
-                    <p>¡Los esperamos del 27 al 29 de setiembre en el LATU!                    </p>
-</div>
+						<?php the_content(); ?>
+			  	</p>		
+			</div>
             
             <div class="row-fluid">
 			  <div class="span12">
